@@ -1,0 +1,5 @@
+Use A* search for questions in Lab 8. 
+
+1.Grid World [50 Marks]:Consider one start state and only one goal state. Use the cost of the unblocked case to as a heuristic to solve for the blocked case.
+
+2.Puzzle [50 Marks]: Use the summation of the distance required by every number to travel to its final position (in the goal state) as a heuristic.
